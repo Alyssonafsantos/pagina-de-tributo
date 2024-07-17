@@ -27,7 +27,7 @@ main{
     text-align: center;
     margin: 05px auto;
 }
-.section__image1{
+.s__image__drunken{
     width:80vw;
     padding: 10px;
     background-color: #3a38383c;
@@ -65,7 +65,7 @@ figcaption{
     list-style: none;
     padding: 3px 16px;
 }
-.section__image2{
+.s__image__smile{
     width:80vw;
     padding: 10px 0;
     background-color: #3a38383c;
