@@ -21,6 +21,7 @@ main{
     font-family: Georgia, 'Times New Roman', Times, serif;
     color: #010015;
     background-color: #008805; 
+    padding: 0 10px;
 }
 .m__header__title{
     font-size: 36px;
