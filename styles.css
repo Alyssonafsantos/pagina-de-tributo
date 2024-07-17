@@ -91,6 +91,10 @@ figcaption{
 a:hover{
     color:yellow ;
 }
+.final__section{
+    padding: 15px;
+    text-align: center;
+}
 @media screen and (max-width: 400px){
     .jcsmile{
         height: 50vh;
