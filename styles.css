@@ -84,11 +84,17 @@ figcaption{
     border-radius: 5px;
     margin: 10px;
 }
+.s__image__smile{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items:center;
+}
 .jcsmile{
     height:70vh;
     border-radius:30px;
-    box-shadow: 0px 0px 20px red;
-    width: 80%;
+    box-shadow: 0px 0px 2vw red;
+    width:98vw;
 }
 .final-text{
     font-size: 18px;
