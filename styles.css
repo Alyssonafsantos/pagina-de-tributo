@@ -37,10 +37,17 @@ main{
     border-radius: 5px;
     padding-bottom: 5px;
 }
+.s__image__drunken{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
 .drunken__img{
     width: 60vw;
     border-radius: 30px;
     box-shadow: 0px 0px 20px red;
+    
 }
 figcaption{
     font-family: Georgia, Times, 'Times New Roman', serif;
